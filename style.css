@@ -1,0 +1,40 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f0f4f8;
+    color: #222;
+}
+
+header {
+    background: #172554;
+    color: white;
+    padding: 30px 15px;
+}
+
+main {
+    margin: 50px auto;
+    padding: 30px;
+    max-width: 600px;
+    background: white;
+    border-radius: 10px;
+}
+
+button {
+    padding: 12px 24px;
+    background: #2563eb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #1e40af;
+}
+
+#message {
+    color: green;
+    font-weight: bold;
+}
